@@ -21,6 +21,8 @@ About page:
 Services page:
 ![frt2](https://user-images.githubusercontent.com/102215785/203602987-d92c39d0-bf5f-43f5-9de5-a4407b3b0531.jpg)
 
+![frt7](https://user-images.githubusercontent.com/102215785/203606301-0e1a704d-df70-494d-96d3-010d167640b9.jpg)
+
 
 Contact page:
 ![frt3](https://user-images.githubusercontent.com/102215785/203604741-01794d27-c3ad-4496-8d28-8cf464094efe.jpg)
