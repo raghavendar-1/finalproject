@@ -7,4 +7,4 @@ Home page:
 
 
 About page:
-
+![frt1](https://user-images.githubusercontent.com/102215785/203601259-6d080187-fd35-4fdd-88e5-9172c9b01a6c.jpg)
