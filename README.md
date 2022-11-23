@@ -4,3 +4,7 @@ In this project we have created a friendly responsive website along with a chatb
 
 Home page:
 ![frt](https://user-images.githubusercontent.com/102215785/203600927-ea68563b-721c-4eb0-a903-b3668f1f7a5c.jpg)
+
+
+About page:
+
