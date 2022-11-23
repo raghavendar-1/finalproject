@@ -15,6 +15,8 @@ Home page:
 About page:
 ![frt1](https://user-images.githubusercontent.com/102215785/203601259-6d080187-fd35-4fdd-88e5-9172c9b01a6c.jpg)
 
+![frt6](https://user-images.githubusercontent.com/102215785/203606114-916cdd67-572b-4efe-9eed-737e2a178d6c.jpg)
+
 
 Services page:
 ![frt2](https://user-images.githubusercontent.com/102215785/203602987-d92c39d0-bf5f-43f5-9de5-a4407b3b0531.jpg)
